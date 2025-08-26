@@ -1,5 +1,8 @@
 import pandas as pd
 import numpy as np
+# Inteligência Artificial
+# 895494 Arthur Henrique Tristão Pinto
+# Lista 01 - Questão 02
 
 # Carregar a tabela de dados do restaurante
 tabela_dados = pd.read_csv('restaurante.csv', sep=';')
